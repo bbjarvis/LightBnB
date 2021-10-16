@@ -5,3 +5,5 @@ Lighthouse BnB is an app that will allow homeowners to rent out their homes to p
 ## Final Product
 We can model these entities in an Entity Relation Diagram (ERD):
 !["BNB ERD"](./docs/BNB_ERD.png)
+
+## For Reference:
